@@ -47,25 +47,7 @@ O objetivo é registrar meu aprendizado, praticar os conceitos estudados e acomp
 | PRIMARY KEY | Chaves primárias |
 | FOREIGN KEY | Chaves estrangeiras |
 
----
 
-## 📂 Organização dos arquivos
-
-```text
-📁 Banco-de-Dados-SQL-Server
-│
-├── 📁 01-Criacao-de-Banco-de-Dados
-│   ├── HospitalDB.sql
-│   ├── LojaVirtual.sql
-│   └── Empresa.sql
-│
-├── 📁 02-Criacao-de-Tabelas
-│
-├── 📁 03-Consultas-SQL
-│
-├── 📁 04-Relacionamentos
-│
-└── README.md
 ```
 
 ---
