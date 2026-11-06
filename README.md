@@ -48,10 +48,6 @@ O objetivo é registrar meu aprendizado, praticar os conceitos estudados e acomp
 | FOREIGN KEY | Chaves estrangeiras |
 
 
-```
-
----
-
 ## 🎯 Objetivo
 
 Construir uma base sólida em Banco de Dados, desenvolver minha lógica com SQL e colocar em prática os conhecimentos adquiridos durante minha formação.
