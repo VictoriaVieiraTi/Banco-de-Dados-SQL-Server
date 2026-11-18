@@ -105,10 +105,9 @@ Este repositório será atualizado conforme novos conteúdos forem estudados e n
 
 ---
 
-\<div align="center">
 
 ### 💜 Em constante aprendizado!
 
 *Cada linha de código é mais um passo na minha evolução como desenvolvedora.*
 
-\</div>
+
